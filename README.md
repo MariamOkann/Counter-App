@@ -12,11 +12,11 @@ A counter project  that counts and stores count entries using Javascript.
 
 ### Useful resources
 
-- [Resource 1](https://www.scrimba.com) 
-- [Resource 2](https://www.w3schools.com) 
+- [Scrmba](https://www.scrimba.com) 
+- [W3Schools](https://www.w3schools.com) 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MariamOkann)
-- Twitter - [@yourusername](https://www.twitter.com/mariam_okan)
+- Website - [Mariam Okanlawon](https://mariamokann.github.io/MariamOkann/)
+- Frontend Mentor - [@MariamOkann](https://www.frontendmentor.io/profile/MariamOkann)
+- Twitter - [@mariam_okan](https://www.twitter.com/mariam_okan)
