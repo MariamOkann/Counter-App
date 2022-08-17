@@ -10,6 +10,10 @@ A counter project  that counts and stores count entries using Javascript.
 - CSS custom properties
 - Javascript
 
+## Links
+
+- Live Site URL: [Counter App](https://mariamokann.github.io/Counter-App/)
+
 ### Useful resources
 
 - [Scrmba](https://www.scrimba.com) 
@@ -20,4 +24,3 @@ A counter project  that counts and stores count entries using Javascript.
 - Website - [Mariam Okanlawon](https://mariamokann.github.io/MariamOkann/)
 - Frontend Mentor - [@MariamOkann](https://www.frontendmentor.io/profile/MariamOkann)
 - Twitter - [@mariam_okan](https://www.twitter.com/mariam_okan)
-- Live Site URL: [Counter App](https://mariamokann.github.io/Counter-App/)
